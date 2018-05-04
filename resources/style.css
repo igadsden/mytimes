@@ -6,10 +6,17 @@ header {
 }
 
 .navigation span {
-  position: inline-block;
+  display: inline-block;
+  padding: 20px 10px;
+  color: black;
+  justify-content: flex-end;
+
 
 }
 
 .logo span {
-  color: MediumAquamarine;
+  color: mediumaquamarine;
+  display: inline-block;
+
+
 }
